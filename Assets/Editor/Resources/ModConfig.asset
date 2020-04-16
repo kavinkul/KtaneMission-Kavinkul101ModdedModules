@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 615501dbe4f3fe94fbf4b564abb10237, type: 3}
+  m_Name: ModConfig
+  m_EditorClassIdentifier: 
+  id: Kavinkul_101_Challenge
+  title: Kavinkul 101 modules Bomb
+  author: kavinkul
+  description: 'A list of modules that I like to do. 101 out of those. Are you expecting
+    that I would name the bomb ___turion?
+
+    Bonus: Minor missions that no one actually wants are added.'
+  version: 0.1
+  outputFolder: build
+  previewImage: {fileID: 2800000, guid: 7175b44194b2f404f8dd69cb40fc7dce, type: 3}
