@@ -18,6 +18,6 @@ MonoBehaviour:
     that I would name the bomb ___turion?
 
     Bonus: Minor missions that no one actually wants are added.'
-  version: 0.1
+  version: 1.9
   outputFolder: build
   previewImage: {fileID: 2800000, guid: 7175b44194b2f404f8dd69cb40fc7dce, type: 3}
